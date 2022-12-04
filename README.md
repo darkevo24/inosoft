@@ -1,0 +1,1 @@
+first of all ,to start the application , you need to npm install to install all of the packages, and use php artisan serve with npm run dev to run the application
